@@ -1,1 +1,22 @@
-/* Add CSS Styling */
+/* AddSS Styling */
+.bob,
+.wade,
+.mark {
+  background-color: lightpink;
+  font-family: verdana, "Dejavu sans", sans-serif;
+}
+
+.jack {
+  color: blue;
+  font-size: 36px;
+}
+
+.wade {
+  font-size: 24px;
+}
+
+.chris {
+  background-color: greenyellow;
+  font-size: 24px;
+  font-weight: bold;
+}
