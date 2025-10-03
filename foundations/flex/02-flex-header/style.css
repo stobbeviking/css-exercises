@@ -12,7 +12,6 @@
   color: tomato;
   background: white;
   padding: 4px 32px;
-  display: flex;
   align-items: center;
   justify-content: center;
 }
